@@ -2,6 +2,7 @@
 
 # Objectives
 * Write the simplex tableau for a linear programming problem.
+* Translate word problems into mathematical representations using LaTeX
 * Use pivoting to find an improved solution.
 * Use the simplex method to solve a linear programming problem that maximizes an objective function.
 * Use the simplex method to solve a linear programming problem that minimizes an objective function.
