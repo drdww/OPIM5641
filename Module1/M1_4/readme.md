@@ -7,3 +7,4 @@
 * Create placeholders to store results (overwrite them as the objective function improves)
 * Use error handling to deal with infeasible solutions (`break` and `continue`)
 * State the pros and cons of the brute-force algorithm
+* Apply what you've learned to real-world problems (product mix problem and machine scheduling problem)
