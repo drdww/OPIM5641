@@ -1,1 +1,1 @@
-# Probability Distributions and Monte Carlo Simulation
+# The 'Brute Force' Algorithm
