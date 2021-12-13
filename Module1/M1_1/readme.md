@@ -1,4 +1,4 @@
-# Topics
+# Python Bootcamp
 * Introduction to the course topics, syllabus, course content, student introductions (30 minutes)
 * Setting up Colab (20 minutes)
 * Code and markdown cells
