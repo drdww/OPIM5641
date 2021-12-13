@@ -14,19 +14,21 @@
 * Calculation with variables
 * Variable types (float, integer, object, boolean) 
 
-### Intermediate Python: Dictionaries & pandas (first two videos, 20 minutes)
+### Intermediate Python: Dictionaries & Lists
 * Create a list
 * Access elements in a list
 * Create dictionary
 * Access dictionary
 
-### Intermediate Python: Logic, control, flow & filtering  (first three videos, 20 minutes) - 2 hours point
-* Equality
-* Greater and less than (equal to)
-
-### Intermediate Python: Loops  (first two videos, 20 minutes)
+### Intermediate Python: Loops 
 * Loop over a list
 * Nested for loop
 * Combinations and permutations
+
+### Intermediate Python: Logic, Control, Flow & Filtering 
+* Equality
+* Greater and less than (equal to)
+* `break` vs. `continue` statements
+* `if` statements
 
 In-Class Activity related to all topics.
