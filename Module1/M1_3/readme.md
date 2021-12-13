@@ -1,1 +1,3 @@
 # Probability Distributions, Monte Carlo Simulations and For Loops
+
+Let's add an awesome notebook on for loops and dictionaries vs. lists...
