@@ -23,6 +23,7 @@ Large Roadside Signs| $60| 50| 300
 
 Answer:
 Small|	Large|	Bumper|	Mailings|	Ads	
+---| ---| ---| ---|---
 Number of units|	100.00|	300.00|	40.00|	800.00|	4.00	
 Votes per method|	10|	30|	10|	40| 485
 
