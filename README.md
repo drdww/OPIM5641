@@ -21,9 +21,10 @@ By the end of the semester, students should be able to:
 
 ### Module 1: Python Bootcamp/Exploratory Data Analysis/Brute Force  
 * Develop well-designed Colab notebooks (organized layout, text cells with beautiful formatting; code cells with lots of comments)
-* Solve optimization problems in Python using the 'brute force' method
 * Describe, summarize and visualize data in Python
 * Enrich existing data with external sources (like Wikipedia and Github)
+* Implement Monte Carlo simulation and interpret the output probabilistically
+* Solve optimization problems in Python using the 'brute force' method
 
 
 ### Module 2: Mathematics for Linear Programming (Graphical Method, Simplex Algorithm)
