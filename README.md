@@ -41,12 +41,13 @@ By the end of the semester, students should be able to:
 * Identify binding constraints and calculate shadow prices.
 * Generate and interpret the 'Sensitivity Report' using Pyomo and GLPK.
 
-### Module 4: Nonlinear Optimization
+### Module 4: Integer Optimization
 
-* Model a problem as a nonlinear optimization model and solve it using Pyomo. Separate model from data and using data structures to create Pyomo models (for constraints/calculations).
-* Understand the differences between local optimal solutions and global optimal solutions. Apply techniques to improve your chances of identifying global optimal solutions for nonlinear optimization problems
-* Implement Monte Carlo simulation and interpret the output probabilistically
-* Use real-time stock price data to allocate a portfolio and maximize returns for a given level of risk
+* Change the domain of decision variables to force decision variables to take on integer values.
+* Identify and define binary constraints and use them for project selection problems. 
+* Identify and define fixed and variable costs, and use linking contraints to ensure consistency. 
+* Use linking constraints to apply min/max thresholds and quantity discounts.
+
 
 ### Module 5: Network Optimization 
 
@@ -55,10 +56,9 @@ By the end of the semester, students should be able to:
 * Conceptualize, draw and solve the 'reduction in flow' example (where demand > supply) and the 'expansion in flow' example (also known as 'laddering' in the finance world).
 * Apply Monte Carlo simulation techniques to network problems.
 
-### Module 6: Integer Optimization
+### Module 6: Nonlinear Optimization
 
-
-* Change the domain of decision variables to force decision variables to take on integer values.
-* Identify and define binary constraints and use them for project selection problems. 
-* Identify and define fixed and variable costs, and use linking contraints to ensure consistency. 
-* Use linking constraints to apply min/max thresholds and quantity discounts.
+* Model a problem as a nonlinear optimization model and solve it using Pyomo. Separate model from data and using data structures to create Pyomo models (for constraints/calculations).
+* Understand the differences between local optimal solutions and global optimal solutions. Apply techniques to improve your chances of identifying global optimal solutions for nonlinear optimization problems
+* Implement Monte Carlo simulation and interpret the output probabilistically
+* Use real-time stock price data to allocate a portfolio and maximize returns for a given level of risk
