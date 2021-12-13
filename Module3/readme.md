@@ -15,6 +15,4 @@ By the end of this module, you should be able to:
 You will be asked to complete the following required activities:
 * Complete the readings and watch the videos/demos in Module 3.1
   * Complete the M3.1 Individual Assignment
-* Complete the readings and watch the videos/demos in Module 3.2
-* Complete the Group Project #1 
 * Review the Module 3 Summary to be sure you've achieved the learning objectives.
