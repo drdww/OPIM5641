@@ -1,4 +1,4 @@
-# Welcome to OPIM 5641: Business Decision Modeling
+# Welcome to OPIM 5641: Business Decision Modeling!
 Dr. Dave Wanik - Dept. of Operations and Information Management - University of Connecticut
 
 ## Course Description
