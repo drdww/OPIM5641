@@ -1,10 +1,12 @@
 # Welcome to Module 1!
 
+## Layout
 * M1_1: Python Bootcamp
 * M1_2: Exploratory Data Analysis
 * M1_3: Probability Distributions and Monte Carlo Simulation
 * M1_4: The 'Brute Force' Algorithm
 
+## Overview
 This module is all about getting your feet wet - we will cover topics such as introducing Python language coding basics, exploratory data analysis (plots, tables and data wrangling), and an introduction to solving optimizations in Python using 'brute force' (essentially, a bunch of for loops) and why this 'brute force' method leaves a lot to be desired (spoiler alert: it is INCREDIBLY inefficient! ...things can only go up from here.)
 
 
