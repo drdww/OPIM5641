@@ -1,1 +1,1 @@
-# Warehouse location and curve fitting
+# Intro to Nonlinear Optimization and Warehouse Location
