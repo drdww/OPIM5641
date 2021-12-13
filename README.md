@@ -55,6 +55,7 @@ By the end of the semester, students should be able to:
 * Generalize the transportation model to a two-stage trans-shipment problem (requires a compound objective function).
 * Conceptualize, draw and solve the 'reduction in flow' example (where demand > supply) and the 'expansion in flow' example (also known as 'laddering' in the finance world).
 * Apply Monte Carlo simulation techniques to network problems.
+* [optional] Explore using Google OR-Tools for Traveling Salesman Problem and Vehicle Routing Problem
 
 ### Module 6: Nonlinear Optimization
 
