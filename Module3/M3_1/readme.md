@@ -4,3 +4,6 @@
 * Gain confidence declaring decision variables, objectives and constraints with Pyomo
 * Solve maximization and minimization problems with any number of decision variables and mixed constraints
 * Convert fractions (blending constraints) into linear constraints
+* Evaluate output of Pyomo models
+* Identify binding constraints
+* Conduct sensitivity analysis and calculate shadow prices when there is a binding constraints
