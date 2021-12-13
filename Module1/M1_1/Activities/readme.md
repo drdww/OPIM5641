@@ -11,3 +11,5 @@ Here is a fun ice breaker - can check in on a few during class (have students jo
   * What you hope to get out of the class
   * What you hope to do once you graduate
   * A fun fact about yourself
+
+[To Do] Make a nice notebook where students can practice the skills from class. This will be Homework 1 but we can assist during class.
