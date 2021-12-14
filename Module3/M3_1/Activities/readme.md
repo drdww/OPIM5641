@@ -1,5 +1,5 @@
 # Activity
-Try the 'fertilizing the yard' and 'election advertising' problems.
+Try the 'fertilizing the yard', 'alloy' and 'election advertising' problems.
 
 ## Election
 A political candidate is planning his media budget for an upcoming election.  He has $90,500 to spend.  His political consultants have provided him with the following estimates of additional votes as a result of the advertising effort:
